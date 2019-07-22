@@ -1,0 +1,23 @@
+11
+12
+physics
+chemisrty
+maths
+staticstics
+biology
+computer science
+bsc
+bca
+msc
+mca
+m.phill
+php
+machnical
+chemical
+civil
+computer
+electrical
+electronincs and telecommunication
+diploma
+degree
+engineering

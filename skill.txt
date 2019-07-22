@@ -1,0 +1,23 @@
+flask
+django 
+mysql
+c
+cpp
+html
+js
+machine learning
+c++
+algorithms
+github
+php
+python
+r
+opencv
+csharp
+vb.net
+ajax
+sql
+unix shell scripting
+data warehouse
+etl
+pl/sql
